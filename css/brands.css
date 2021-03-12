@@ -77,6 +77,14 @@ button:hover,
 /* Brand Styles
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
+/* Calendly */
+.button.button-calendly{
+  color: #000000;
+  background-color: #FFFFFF }
+.button.button-calendly:hover,
+.button.button-calendly:focus {
+  filter: brightness(90%) }
+
 /* Discord */
 .button.button-discord {
   color: #FFFFFF;
